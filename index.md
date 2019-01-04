@@ -8,6 +8,8 @@
 
 [A Simple implement ---> A website of minority](stupidpanther.github.io/web_manchu/index.html)
 
+[南大电子 ee.xstudioreal.cn](http://ee.xstudioreal.cn/)
+
 [Sharif Judge](http://210.28.133.11:21212/OnlineJudge/index.php/login)
 
 [Silly Home Page](cf_index.html)
