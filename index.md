@@ -10,6 +10,8 @@
 
 [Sharif Judge](http://210.28.133.11:21212/OnlineJudge/index.php/login)
 
+[Silly Home Page](cf_index.html)
+
 [Here is a name test ---> Click here](stupidpanther.github.io/nametest.html)
 
 [Next ---> Click here](stupidpanther.github.io/nju/test_001/testpage.md)
