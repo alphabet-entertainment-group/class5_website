@@ -6,5 +6,6 @@
 #                  in Nanjing University
 #                    is too hard!!!!!!
 
+[Here is a name test ---> Click here](stupidpanther.github.io/nametest.html)
 
 [Next ---> Click here](stupidpanther.github.io/nju/test_001/testpage.md)
