@@ -1,4 +1,4 @@
-- This a website published by Mr. LIU,YUXUAN
+- This a website published by Mr. StupidPanther
 
 #            The First Thing I Want To Say Is...
 #                    the CALCULUS test
