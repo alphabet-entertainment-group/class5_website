@@ -6,7 +6,7 @@
 #                  in Nanjing University
 #                    is too hard!!!!!!
 
-[A Simple implement ---> A website of minority](stupidpanther.github.io/web_manchu/index.html)
+[A Simple implement ---> A website of minority](stupidpanther.github.io/web_manchu/index.html) (bugs emerged as time goes by)
 
 [南大电子 ee.xstudioreal.cn](http://ee.xstudioreal.cn/)
 
