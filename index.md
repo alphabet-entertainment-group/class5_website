@@ -10,10 +10,10 @@
 
 [南大电子 ee.xstudioreal.cn](http://ee.xstudioreal.cn/)
 
-[Sharif Judge](http://210.28.133.11:21212/OnlineJudge/index.php/login)
+[Sharif Judge 救命](http://210.28.133.11:21212/OnlineJudge/index.php/login)
 
 [Silly Home Page](cf_index.html)
 
-[Here is a name test ---> Click here](stupidpanther.github.io/nametest.html)
+Here, name test ---> [Click here](stupidpanther.github.io/nametest.html) ---> [Or here](nametest.txt)
 
 [Next ---> Click here](stupidpanther.github.io/nju/test_001/testpage.md)
