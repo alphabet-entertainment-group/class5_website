@@ -6,7 +6,7 @@
 #                  in Nanjing University
 #                    is too hard!!!!!!
 
-[Get the calculation with GUI now!](github.com/StupidPanther/my-calculation-app) [Click here to quickly dowmload the app]()
+[Get the calculation with GUI now!](https://github.com/StupidPanther/My-Calculation-App) [Click here to quickly dowmload the app]()
 
 [A Simple implement ---> A website of minority](stupidpanther.github.io/web_manchu/index.html) (bugs emerged as time goes by)
 
